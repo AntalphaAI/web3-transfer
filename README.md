@@ -70,7 +70,7 @@ If those tools are unavailable, the agent should not pretend it can execute the 
 This is an **instruction-only** skill.
 
 ```bash
-clawhub install antalpha-web3-transfer
+clawhub install web3-transfer
 ```
 
 Or clone manually:
@@ -210,7 +210,7 @@ The agent should:
 这是一个 **instruction-only** Skill。
 
 ```bash
-clawhub install antalpha-web3-transfer
+clawhub install web3-transfer
 ```
 
 或手动克隆：
